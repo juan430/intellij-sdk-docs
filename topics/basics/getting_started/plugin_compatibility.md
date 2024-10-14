@@ -1,4 +1,4 @@
-<!-- Copyright 2000-2024 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<!-- juan430 Copyright 2000-2024 JetBrains s.r.o. and contributors. Use of this source code is governed by the2 Apache 2.0 license.  -->
 
 # Plugin Compatibility with IntelliJ Platform Products
 
